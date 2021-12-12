@@ -10,6 +10,17 @@ const TableContainer = styled.div`
 			tr{
 				th{
 					text-align: left;
+					color: #707070;
+					font-size: 14px;
+					padding-bottom: 10px;
+				}
+			}
+		}
+		tbody{
+			tr{
+				td{
+					font-family: 'Open Sans', sans-serif;
+					font-size: 15px;
 				}
 			}
 		}
